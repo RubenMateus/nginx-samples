@@ -6,6 +6,13 @@ This repo was made to keep track and record my learning path for all related ngi
 
 [What is NGINX](https://www.nginx.com/resources/glossary/nginx/)
 [Why NGINX](https://en.wikipedia.org/wiki/C10k_problem)
+[Docs](http://nginx.org/en/docs/)
+
+[Pitfalls and Mistakes](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/)
+[NGINX-resources](https://github.com/fcambus/nginx-resources)
+
+[Init Scripts](https://www.nginx.com/resources/wiki/start/topics/examples/initscripts/)
+[nginx-init-ubuntu](https://github.com/JasonGiedymin/nginx-init-ubuntu)
 
 ### Configurations
 
@@ -33,10 +40,12 @@ This repo was made to keep track and record my learning path for all related ngi
 
 [ngx_http_image_filter_module](http://nginx.org/en/docs/http/ngx_http_image_filter_module.html)
 [ngx_http_fastcgi_module](http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html)
+[ngx_http_geoip_module](http://nginx.org/en/docs/http/ngx_http_geoip_module.html)
+[ngx_http_mp4_module](http://nginx.org/en/docs/http/ngx_http_mp4_module.html)
 
 ### Compression and gziping
 
-[ngx gzip Module](http://nginx.org/en/docs/http/ngx_http_gzip_module.html)
+[ngx-gzip-module](http://nginx.org/en/docs/http/ngx_http_gzip_module.html)
 
 ### Http2
 
@@ -57,3 +66,17 @@ This repo was made to keep track and record my learning path for all related ngi
 [Introduction to Let's Encrypt](https://www.digitalocean.com/community/tutorials/an-introduction-to-let-s-encrypt)
 [CertBot](https://certbot.eff.org/)
 [CertBot Docs](https://certbot.eff.org/docs/)
+
+### Reverse Proxy
+
+[PHP Built in Server](https://www.php.net/manual/en/features.commandline.webserver.php)
+[PHP static server one-liners](https://gist.github.com/willurd/5720255)
+
+[Reverse Proxy Guide](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/)
+[Proxy Modules](http://nginx.org/en/docs/http/ngx_http_proxy_module.html)
+
+### Load Balancing
+
+[Using nginx as Load Balancer](http://nginx.org/en/docs/http/load_balancing.html)
+[Load Balancing Guide](https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/)
+[Load Balancing Modules](http://nginx.org/en/docs/http/ngx_http_upstream_module.html)
